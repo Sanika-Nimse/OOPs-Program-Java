@@ -36,16 +36,4 @@ This project showcases the following OOP concepts:
 
 * Java Development Kit (JDK) [Specify version, e.g., 11 or 17] or higher.
 
-## Installation
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [Your repository URL]
-    cd [Your project directory]
-    ```
-2.  **Compile the Java files:**
-    ```bash
-    javac *.java
-    ```
-    or, if using an IDE like IntelliJ or Eclipse, import the project and build it within the IDE.
 
